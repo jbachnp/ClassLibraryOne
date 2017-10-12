@@ -14,7 +14,7 @@ namespace ClassLibraryOne
 
         public string ReceiveMessage(string msg)
         {
-            return string.Format("Message received: ", msg);
+            return string.Format("Message received la: ", msg);
 
         }
     }
